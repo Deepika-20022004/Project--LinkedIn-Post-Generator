@@ -2,6 +2,8 @@
 
 This project is a LinkedIn Post Generator built with Python and Streamlit. It uses language models to generate posts based on selected themes, target audiences, and post lengths.
 
+Check it out: https://project--linkedin-post-generator-r8unlpjnkywwdxtwpfrpbu.streamlit.app/
+
 ## Features
 
 - Generate LinkedIn posts with customizable length, theme, and target audience
