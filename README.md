@@ -20,7 +20,7 @@ Check it out: https://project--linkedin-post-generator-r8unlpjnkywwdxtwpfrpbu.st
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Deepika-20022004/Project--LinkedIn-Post-Generator.git
 cd Project-LinkedIn-Post-Generator
 ```
 
