@@ -19,29 +19,37 @@ Check it out: https://project--linkedin-post-generator-r8unlpjnkywwdxtwpfrpbu.st
 
 ### 1. Clone the Repository
 
-```sh
+```
 git clone https://github.com/Deepika-20022004/Project--LinkedIn-Post-Generator.git
+```
+```
 cd Project-LinkedIn-Post-Generator
 ```
 
 ### 2. Create and Activate a Virtual Environment
 
 **Windows:**
-```sh
+```
 python -m venv venv
+```
+```
 venv\Scripts\activate
 ```
 
 **macOS/Linux:**
-```sh
+```
 python3 -m venv venv
+```
+```
 source venv/bin/activate
 ```
 
 ### 3. Install Dependencies
 
-```sh
+```
 pip install --upgrade pip
+```
+```
 pip install -r requirements.txt
 ```
 
@@ -55,7 +63,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ### 5. Run the App
 
-```sh
+```
 streamlit run main.py
 ```
 
